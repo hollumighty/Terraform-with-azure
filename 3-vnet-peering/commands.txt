@@ -1,4 +1,4 @@
-#pEERING THE TWO VNET
+#PEERING THE TWO VNET
 
 # Copy the contents of the vnet-peering.tf file to the 1-main-vnet 
 # directory in Cloud Shell

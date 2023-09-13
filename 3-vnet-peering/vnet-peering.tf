@@ -56,7 +56,7 @@ provider "azurerm" {
   features {}
 }
 
-#ROLE
+#CREATE ROLE
 
 resource "azurerm_role_definition" "vnet-peering" {
   name  = "allow-vnet-peer-main"
